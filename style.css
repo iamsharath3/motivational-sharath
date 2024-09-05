@@ -1,0 +1,22 @@
+html{
+    background-color: black;
+  }
+  h1{
+    color: white;
+    font-family: "SUSE", sans-serif;
+    text-align: center;
+  }
+  h4{
+    color: white;
+    text-align: center;
+    margin-left: 70%;
+  }
+  img{
+    width: 100%;
+    border: 5px solid white;
+  }
+  div{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 150px;
+  }
